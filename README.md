@@ -2,6 +2,9 @@
 a multicycle CPU done on ModelSim  
 the CPU is multicycle and programmed in Verilog
 
+src, src2 and src3 is multicycle CPU
+src4 is a MIPS micro system, including multicycle CPU, system bridge, a timer and an exception handler.   
+
 Design Description:
 
 1, the CPU support instructions:   
